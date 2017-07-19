@@ -1,0 +1,12 @@
+F:\Himanshu\Practice\Csharp\StringEvaluation\StringEvaluation\bin\Debug\StringEvaluation.exe.config
+F:\Himanshu\Practice\Csharp\StringEvaluation\StringEvaluation\bin\Debug\StringEvaluation.exe
+F:\Himanshu\Practice\Csharp\StringEvaluation\StringEvaluation\bin\Debug\StringEvaluation.pdb
+F:\Himanshu\Practice\Csharp\StringEvaluation\StringEvaluation\obj\Debug\StringEvaluation.csprojResolveAssemblyReference.cache
+F:\Himanshu\Practice\Csharp\StringEvaluation\StringEvaluation\obj\Debug\StringEvaluation.exe
+F:\Himanshu\Practice\Csharp\StringEvaluation\StringEvaluation\obj\Debug\StringEvaluation.pdb
+F:\Work\StringEvaluation\StringEvaluation\bin\Debug\StringEvaluation.exe.config
+F:\Work\StringEvaluation\StringEvaluation\bin\Debug\StringEvaluation.exe
+F:\Work\StringEvaluation\StringEvaluation\bin\Debug\StringEvaluation.pdb
+F:\Work\StringEvaluation\StringEvaluation\obj\Debug\StringEvaluation.csprojResolveAssemblyReference.cache
+F:\Work\StringEvaluation\StringEvaluation\obj\Debug\StringEvaluation.exe
+F:\Work\StringEvaluation\StringEvaluation\obj\Debug\StringEvaluation.pdb
